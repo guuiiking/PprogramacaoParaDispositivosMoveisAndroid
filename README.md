@@ -12,3 +12,6 @@ Este repositório contém o código de um aplicativo em React Native para gerenc
 - **Registrar Vendas:** Registre a venda de um item, garantindo que a quantidade disponível seja suficiente.
 - **Visualização do Estoque:** Exiba a lista de itens em estoque com suas respectivas quantidades.
 - **Histórico de Vendas:** Visualize um registro das vendas realizadas.
+
+
+obs. este desenvolvimento foi feito em um macbook m2, por isso precisei instalar algumas coisas a mais para poder criar o app
